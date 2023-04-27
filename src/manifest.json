@@ -1,0 +1,8 @@
+{
+  "short_name": "Руки",
+  "name": "Руки, сервис домашнего ремонта",
+  "theme_color": "#00e6e6",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "any"
+}
